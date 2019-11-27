@@ -1,0 +1,11 @@
+1	Lampe (EG) 	2447323	17	0	0	0	0	
+2	Deckenlampe (Keller) 	2761768	17	0	0	0	0	
+19	Rolladen (HK) 	2448670	27	0	0	0	0	
+20	Energiesensor ( Energie )	4350809	54	0	0	1	0	
+21	Energiesensor ( Leistung)	4350809	54	1	0	1	0	
+22	Energiesensor ( Strom)	4350809	54	2	0	1	0	
+23	Energiesensor ( Spannung)	4350809	54	3	0	1	0	
+3	Taster (MM)  (rechts)	2340875	2	1	0	1	0	
+5	Temp (Sauna)  (Kanal A)	2340515	23	0	1	1	0	
+6	Temp (Gefrier)  Temperatur, Stellrad	2750378	51	0	1	1	0	
+7	Temp (Gefrier)  Luftfeuchtigkeit	2750378	51	1	1	1	0	

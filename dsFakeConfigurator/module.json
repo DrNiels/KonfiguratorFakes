@@ -1,0 +1,16 @@
+{
+    "id": "{9176E70A-8E58-9D85-619E-A722B6B6736E}",
+    "name": "dsFakeConfigurator",
+    "type": 4,
+    "vendor": "",
+    "aliases": [],
+    "parentRequirements": [
+        "{79827379-F36E-4ADA-8A95-5F8D1DC92FA9}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{018EF6B5-AB94-40C6-AA53-46943E824ACF}"
+    ],
+    "prefix": "DSFC",
+    "url": "https://www.symcon.de"
+}
